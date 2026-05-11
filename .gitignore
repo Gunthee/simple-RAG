@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+chroma_db/
+venv/
+*csv
+*.log
+*json
+*.txt
+*.pdf
+/new
