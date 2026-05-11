@@ -16,7 +16,7 @@ load_dotenv()
 # Config
 # =========================
 
-TYPHOON_API_KEY = "sk-wgVSEEMb7hEpZtSVksdDoVpIrPShhQRVWkbLhwr9yqRL2mhM"
+TYPHOON_API_KEY = "sk-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX " #Replace with your actual API key
 TYPHOON_BASE_URL = "https://api.opentyphoon.ai/v1"
 TYPHOON_MODEL = "typhoon-v2.5-30b-a3b-instruct"
 
